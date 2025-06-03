@@ -40,7 +40,7 @@
 ### Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YedMavus" target="_blank">
+  <a href="https://www.linkedin.com/in/suvamdey" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" height="24" />
   </a>
   <a href="https://twitter.com/YedMavus" target="_blank">
