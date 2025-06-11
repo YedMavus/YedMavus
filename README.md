@@ -3,7 +3,7 @@
   <img src="https://github.com/YedMavus.png" width="120" alt="Profile Photo" style="border-radius: 50%;" />
 </p>
 
-<h1 align="center">Hi, I'm YedMavus</h1>
+<h1 align="center">Hi, I'm Suvam</h1>
 <p align="center">
   <em>"uncomfortably dumb and learning..."</em>
 </p>
